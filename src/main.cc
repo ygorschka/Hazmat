@@ -1,3 +1,7 @@
+// Projet realise au sein du cours de 3eme annee de l'enseirb-matmeca AN311 "Methodes numeriques
+// pour les ecoulemements compressibles"
+// Auteur : Yoan Gorschka - ygorschka@enseirb-matmeca.fr
+
 #include <cstdio>
 #include <string>
 #include <cstdlib>
